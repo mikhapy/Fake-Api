@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "channel_uuid": "1",
+    "body": "Nuevo Mensaje",
+    "sender": "Mikha",
+    "right": false,
+    "createdAt": "today",
+    "read": "Y"
+  },
+  {
+    "id": "2",
+    "channel_uuid": "1",
+    "body": "Lorem ipsum",
+    "sender": "Test",
+    "right": true,
+    "createdAt": "today",
+    "read": "Y"
+  },
+  {
+    "id": "3",
+    "channel_uuid": "1",
+    "body": "Nuevo Mensaje",
+    "sender": "Mikha",
+    "right": false,
+    "createdAt": "today",
+    "read": "Y"
+  },
+  {
+    "id": "4",
+    "channel_uuid": "1",
+    "body": "Nuevo Mensaje",
+    "sender": "Mikha",
+    "right": false,
+    "createdAt": "today",
+    "read": "Y"
+  },
+  {
+    "id": "5",
+    "channel_uuid": "1",
+    "body": "Last message",
+    "sender": "Mikha",
+    "right": false,
+    "createdAt": "today",
+    "read": "Y"
+  }
+]
