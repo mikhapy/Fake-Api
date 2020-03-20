@@ -1,53 +1,55 @@
-[
-  {
-    "uuid": "1",
-    "from": "Mikha",
-    "to": "Test",
-    "messages": 
-    [
-      {
-        "id": "1",
-        "channel_uuid": "1",
-        "body": "Nuevo Mensaje",
-        "sender": "Mikha",
-        "right": false,
-        "createdAt": "today",
-        "read": "Y"
-      }  
-    ]
-  },
-  {
-    "uuid": "2",
-    "from": "Testing",
-    "to": "Test",
-    "messages": 
-    [
-      {
-        "id": "100",
-        "channel_uuid": "2",
-        "body": "Test MSG",
-        "sender": "Test",
-        "right": true,
-        "createdAt": "today",
-        "read": "Y"
-      }  
-    ]
-  },
-  {
-    "uuid": "3",
-    "from": "Mikha",
-    "to": "Test",
-    "messages": 
-    [
-      {
-        "id": "200",
-        "channel_uuid": "3",
-        "body": "TESTASD",
-        "sender": "Mikha",
-        "right": true,
-        "createdAt": "today",
-        "read": "Y"
-      }  
-    ]
-  }
+[{
+		"uuid": "1",
+		"picture": "https://ui-avatars.com/api/?background=0D8ABC&color=fff",
+		"name": "Chat numero 1",
+		"users": [{
+				"id": "1",
+				"name": "Mikhail Herrero",
+				"avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Mikhail",
+				"online": true
+			},
+			{
+				"id": "1",
+				"name": "Sergio Moro",
+				"avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Sergio Moro",
+				"online": true
+			}
+		],
+		"messages": [{
+			"id": "1",
+			"channel_uuid": "1",
+			"body": "Nuevo Mensaje",
+			"sender": "Mikha",
+			"right": false,
+			"createdAt": "today",
+			"read": "Y"
+		}]
+	},
+	{
+		"uuid": "2",
+		"picture": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Chat 2",
+		"name": "Chat numero 2",
+		"users": [{
+				"id": "1",
+				"name": "Mikhail Herrero",
+				"avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Mikhail",
+				"online": true
+			},
+			{
+				"id": "1",
+				"name": "Javier Gaona",
+				"avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Javier Gaona",
+				"online": true
+			}
+		],
+		"messages": [{
+			"id": "2",
+			"channel_uuid": "2",
+			"body": "Nuevo Mensaje",
+			"sender": "Mikha",
+			"right": false,
+			"createdAt": "today",
+			"read": "Y"
+		}]
+	}
 ]
