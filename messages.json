@@ -6,7 +6,13 @@
     "sender": "Mikha",
     "right": false,
     "createdAt": "today",
-    "read": "Y"
+    "read": "Y",
+    "user": {
+				"id": "1",
+				"name": "Mikhail Herrero",
+				"avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Mikhail",
+				"online": true
+			}
   },
   {
     "id": "2",
@@ -15,7 +21,13 @@
     "sender": "Test",
     "right": true,
     "createdAt": "today",
-    "read": "Y"
+    "read": "Y",
+    "user": {
+				"id": "2",
+				"name": "Mikhail Herrero",
+				"avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Mikhail",
+				"online": true
+			}
   },
   {
     "id": "3",
@@ -24,7 +36,13 @@
     "sender": "Mikha",
     "right": false,
     "createdAt": "today",
-    "read": "Y"
+    "read": "Y",
+    "user": {
+				"id": "1",
+				"name": "Mikhail Herrero",
+				"avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Mikhail",
+				"online": true
+			}
   },
   {
     "id": "4",
@@ -33,7 +51,13 @@
     "sender": "Mikha",
     "right": false,
     "createdAt": "today",
-    "read": "Y"
+    "read": "Y",
+    "user": {
+				"id": "1",
+				"name": "Mikhail Herrero",
+				"avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Mikhail",
+				"online": true
+			}
   },
   {
     "id": "5",
@@ -42,6 +66,12 @@
     "sender": "Mikha",
     "right": false,
     "createdAt": "today",
-    "read": "Y"
+    "read": "Y",
+    "user": {
+				"id": "2",
+				"name": "Mikhail Herrero",
+				"avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Mikhail",
+				"online": true
+			}
   }
 ]
