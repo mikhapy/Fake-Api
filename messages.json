@@ -1,100 +1,99 @@
-[
-  {
-    "id": "1",
-    "channel_uuid": "1",
-    "sender": "Mikha",
-    "right": false,
-    "createdAt": "today",
-    "read": "Y",
-    "image_url": "https://s3.amazonaws.com/images.seroundtable.com/google-css-images-1515761601.jpg",
-    "location": {
-	    "lat": 30.0,
-	    "long": 30.0
-    },
-    "user": {
-				"id": "1",
-				"name": "Mikhail Herrero",
-				"avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Mikhail",
-				"online": true
-			}
-  },
-  {
-    "id": "1",
-    "channel_uuid": "1",
-    "body": "Mensaje con imagen",
-    "sender": "Mikha",
-    "right": false,
-    "createdAt": "today",
-    "read": "Y",
-    "image_url": "https://s3.amazonaws.com/images.seroundtable.com/google-css-images-1515761601.jpg",
-    "user": {
-				"id": "1",
-				"name": "Mikhail Herrero",
-				"avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Mikhail",
-				"online": true
-			}
-  },
-  {
-    "id": "2",
-    "channel_uuid": "1",
-    "sender": "Test",
-    "right": true,
-    "createdAt": "today",
-    "read": "Y",
-    "voice":{
-    	"url": "https://example.org",
-	"duration": 30
-    },
-    "user": {
-				"id": "2",
-				"name": "Mikhail Herrero",
-				"avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Mikhail",
-				"online": true
-			}
-  },
-  {
-    "id": "3",
-    "channel_uuid": "1",
-    "body": "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
-    "sender": "Mikha",
-    "right": false,
-    "createdAt": "today",
-    "read": "Y",
-    "user": {
-				"id": "1",
-				"name": "Mikhail Herrero",
-				"avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Mikhail",
-				"online": true
-			}
-  },
-  {
-    "id": "4",
-    "channel_uuid": "1",
-    "body": "orem Ipsum is simply dummy text of the pesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
-    "sender": "Mikha",
-    "right": false,
-    "createdAt": "today",
-    "read": "Y",
-    "user": {
-				"id": "1",
-				"name": "Mikhail Herrero",
-				"avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Mikhail",
-				"online": true
-			}
-  },
-  {
-    "id": "5",
-    "channel_uuid": "1",
-    "body": "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the",
-    "sender": "Mikha",
-    "right": false,
-    "createdAt": "today",
-    "read": "Y",
-    "user": {
-				"id": "2",
-				"name": "Mikhail Herrero",
-				"avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Mikhail",
-				"online": true
-			}
-  }
+[{
+		"id": "1",
+		"channel_uuid": "1",
+		"sender": "Mikha",
+		"right": false,
+		"createdAt": "today",
+		"read": "Y",
+		"image_url": "https://s3.amazonaws.com/images.seroundtable.com/google-css-images-1515761601.jpg",
+		"location": {
+			"lat": "30.0",
+			"long": "30"
+		},
+		"user": {
+			"id": "1",
+			"name": "Mikhail Herrero",
+			"avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Mikhail",
+			"online": true
+		}
+	},
+	{
+		"id": "1",
+		"channel_uuid": "1",
+		"body": "Mensaje con imagen",
+		"sender": "Mikha",
+		"right": false,
+		"createdAt": "today",
+		"read": "Y",
+		"image_url": "https://s3.amazonaws.com/images.seroundtable.com/google-css-images-1515761601.jpg",
+		"user": {
+			"id": "1",
+			"name": "Mikhail Herrero",
+			"avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Mikhail",
+			"online": true
+		}
+	},
+	{
+		"id": "2",
+		"channel_uuid": "1",
+		"sender": "Test",
+		"right": true,
+		"createdAt": "today",
+		"read": "Y",
+		"voice": {
+			"url": "https://example.org",
+			"duration": 30
+		},
+		"user": {
+			"id": "2",
+			"name": "Mikhail Herrero",
+			"avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Mikhail",
+			"online": true
+		}
+	},
+	{
+		"id": "3",
+		"channel_uuid": "1",
+		"body": "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+		"sender": "Mikha",
+		"right": false,
+		"createdAt": "today",
+		"read": "Y",
+		"user": {
+			"id": "1",
+			"name": "Mikhail Herrero",
+			"avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Mikhail",
+			"online": true
+		}
+	},
+	{
+		"id": "4",
+		"channel_uuid": "1",
+		"body": "orem Ipsum is simply dummy text of the pesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+		"sender": "Mikha",
+		"right": false,
+		"createdAt": "today",
+		"read": "Y",
+		"user": {
+			"id": "1",
+			"name": "Mikhail Herrero",
+			"avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Mikhail",
+			"online": true
+		}
+	},
+	{
+		"id": "5",
+		"channel_uuid": "1",
+		"body": "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the",
+		"sender": "Mikha",
+		"right": false,
+		"createdAt": "today",
+		"read": "Y",
+		"user": {
+			"id": "2",
+			"name": "Mikhail Herrero",
+			"avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Mikhail",
+			"online": true
+		}
+	}
 ]
