@@ -2,6 +2,25 @@
   {
     "id": "1",
     "channel_uuid": "1",
+    "sender": "Mikha",
+    "right": false,
+    "createdAt": "today",
+    "read": "Y",
+    "image_url": "https://s3.amazonaws.com/images.seroundtable.com/google-css-images-1515761601.jpg",
+    "location": {
+	    "lat": 30.0,
+	    "long": 30.0
+    },
+    "user": {
+				"id": "1",
+				"name": "Mikhail Herrero",
+				"avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Mikhail",
+				"online": true
+			}
+  }
+  {
+    "id": "1",
+    "channel_uuid": "1",
     "body": "Mensaje con imagen",
     "sender": "Mikha",
     "right": false,
