@@ -23,6 +23,10 @@
     "right": true,
     "createdAt": "today",
     "read": "Y",
+    "voice":{
+    	"url": "https://example.org",
+	"duration": 30
+    },
     "user": {
 				"id": "2",
 				"name": "Mikhail Herrero",
