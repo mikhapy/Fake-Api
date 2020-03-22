@@ -1,16 +1,16 @@
 [{
-		"id": "30",
+		"id": "2",
 		"channel_uuid": "1",
-		"sender": "Mikha",
-		"right": false,
+		"sender": "Test",
+		"right": true,
 		"createdAt": "today",
 		"read": "Y",
-		"location": {
-			"lat": "30.0",
-			"long": "30"
+		"voice": {
+			"url": "https://example.org",
+			"duration": 30
 		},
 		"user": {
-			"id": "1",
+			"id": "2",
 			"name": "Mikhail Herrero",
 			"avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Mikhail",
 			"online": true
