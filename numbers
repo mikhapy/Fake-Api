@@ -1,0 +1,55 @@
+[{
+		"id": "1",
+		"number": "+595984400984",
+		"friendly_name": "Asuncion",
+		"country_code": "py"
+	},
+	{
+		"id": "2",
+		"number": "+595984400984",
+		"friendly_name": "Sao Paulo",
+		"country_code": "br"
+	},
+	{
+		"id": "3",
+		"number": "+595984400984",
+		"friendly_name": "Chicago",
+		"country_code": "us"
+	},
+	{
+		"id": "4",
+		"number": "+595984400984",
+		"friendly_name": "Mexico",
+		"country_code": "mx"
+	},
+	{
+		"id": "5",
+		"number": "+595984400984",
+		"friendly_name": "Colombia",
+		"country_code": "co"
+	},
+	{
+		"id": "6",
+		"number": "+595984400984",
+		"friendly_name": "Argentina",
+		"country_code": "ar"
+	},
+	{
+		"id": "7",
+		"number": "+595984400984",
+		"friendly_name": "Peru",
+		"country_code": "pe"
+	},
+	{
+		"id": "8",
+		"number": "+595984400984",
+		"friendly_name": "Espana",
+		"country_code": "es"
+	},
+	{
+		"id": "9",
+		"number": "+595984400984",
+		"friendly_name": "Holanda",
+		"country_code": "nl"
+	}
+]
