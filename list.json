@@ -1,7 +1,7 @@
 [{
 		"uuid": "1",
 		"picture": "https://ui-avatars.com/api/?background=0D8ABC&color=fff",
-		"name": "Chat numero 1",
+		"name": "Chat number 1",
 		"users": [{
 				"id": "1",
 				"name": "Mikhail Herrero",
@@ -18,7 +18,7 @@
 		"messages": [{
 			"id": "1",
 			"channel_uuid": "1",
-			"body": "Nuevo Mensaje",
+			"body": "Lorem ipsum",
 			"sender": "Mikha",
 			"right": false,
 			"createdAt": "today",
@@ -28,7 +28,7 @@
 	{
 		"uuid": "2",
 		"picture": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Chat 2",
-		"name": "Chat numero 2",
+		"name": "Chat number 2",
 		"users": [{
 				"id": "1",
 				"name": "Mikhail Herrero",
@@ -45,7 +45,169 @@
 		"messages": [{
 			"id": "2",
 			"channel_uuid": "2",
-			"body": "Nuevo Mensaje",
+			"body": "Lorem ipsum",
+			"sender": "Mikha",
+			"right": false,
+			"createdAt": "today",
+			"read": "Y"
+		}]
+	},
+	{
+		"uuid": "3",
+		"picture": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Chat 2",
+		"name": "Chat number 3",
+		"users": [{
+				"id": "1",
+				"name": "Mikhail Herrero",
+				"avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Mikhail",
+				"online": true
+			},
+			{
+				"id": "1",
+				"name": "Javier Gaona",
+				"avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Javier Gaona",
+				"online": true
+			}
+		],
+		"messages": [{
+			"id": "2",
+			"channel_uuid": "2",
+			"body": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
+			"sender": "Mikha",
+			"right": false,
+			"createdAt": "today",
+			"read": "Y"
+		}]
+	},
+	{
+		"uuid": "4",
+		"picture": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Chat 2",
+		"name": "Chat number 4",
+		"users": [{
+				"id": "1",
+				"name": "Mikhail Herrero",
+				"avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Mikhail",
+				"online": true
+			},
+			{
+				"id": "1",
+				"name": "Javier Gaona",
+				"avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Javier Gaona",
+				"online": true
+			}
+		],
+		"messages": [{
+			"id": "2",
+			"channel_uuid": "2",
+			"body": "Lorem ipsum Lorem ipsum",
+			"sender": "Mikha",
+			"right": false,
+			"createdAt": "today",
+			"read": "Y"
+		}]
+	},
+	{
+		"uuid": "5",
+		"picture": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Chat 2",
+		"name": "Chat numero 5",
+		"users": [{
+				"id": "1",
+				"name": "Mikhail Herrero",
+				"avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Mikhail",
+				"online": true
+			},
+			{
+				"id": "1",
+				"name": "Javier Gaona",
+				"avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Javier Gaona",
+				"online": true
+			}
+		],
+		"messages": [{
+			"id": "6",
+			"channel_uuid": "2",
+			"body": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
+			"sender": "Mikha",
+			"right": false,
+			"createdAt": "today",
+			"read": "Y"
+		}]
+	},
+	{
+		"uuid": "6",
+		"picture": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Chat 2",
+		"name": "Chat numero 6",
+		"users": [{
+				"id": "1",
+				"name": "Mikhail Herrero",
+				"avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Mikhail",
+				"online": true
+			},
+			{
+				"id": "1",
+				"name": "Javier Gaona",
+				"avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Javier Gaona",
+				"online": true
+			}
+		],
+		"messages": [{
+			"id": "2",
+			"channel_uuid": "2",
+			"body": "Lorem ipsum",
+			"sender": "Mikha",
+			"right": false,
+			"createdAt": "today",
+			"read": "Y"
+		}]
+	},
+	{
+		"uuid": "7",
+		"picture": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Chat 2",
+		"name": "Chat number 7",
+		"users": [{
+				"id": "1",
+				"name": "Mikhail Herrero",
+				"avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Mikhail",
+				"online": true
+			},
+			{
+				"id": "1",
+				"name": "Javier Gaona",
+				"avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Javier Gaona",
+				"online": true
+			}
+		],
+		"messages": [{
+			"id": "2",
+			"channel_uuid": "2",
+			"body": "Lorem ipsume",
+			"sender": "Mikha",
+			"right": false,
+			"createdAt": "today",
+			"read": "Y"
+		}]
+	},
+	{
+		"uuid": "8",
+		"picture": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Chat 2",
+		"name": "Chat number 8",
+		"users": [{
+				"id": "1",
+				"name": "Mikhail Herrero",
+				"avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Mikhail",
+				"online": true
+			},
+			{
+				"id": "1",
+				"name": "Javier Gaona",
+				"avatar": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Javier Gaona",
+				"online": true
+			}
+		],
+		"messages": [{
+			"id": "2",
+			"channel_uuid": "2",
+			"body": "Lorem ipsum",
 			"sender": "Mikha",
 			"right": false,
 			"createdAt": "today",
