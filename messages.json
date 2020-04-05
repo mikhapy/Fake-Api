@@ -1,4 +1,21 @@
-[
+[{	[
+		"id": "6",	
+		"channel_uuid": "1",	
+		"sender": "Test",	
+		"right": true,	
+		"createdAt": "today",	
+		"read": "Y",	
+		"location": {	
+			"lat": "https://example.org",	
+			"long": "30"	
+		},	
+		"user": {	
+			"id": "2",	
+			"name": "Mikhail Herrero",	
+			"avatar": "https://i.pravatar.cc/75?img=1",	
+			"online": true	
+		}	
+	},
 	{
 		"id": "1",
 		"channel_uuid": "1",
