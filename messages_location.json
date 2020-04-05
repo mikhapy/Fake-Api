@@ -7,8 +7,8 @@
 		"read": "Y",
 		"body": "Location: Asuncion",
 		"location": {	
-			"lat": "https://example.org",	
-			"long": "30"	
+			"lat": "-25.2968361",	
+			"long": "-57.6681294"	
 		},	
 		"user": {	
 			"id": "2",	
