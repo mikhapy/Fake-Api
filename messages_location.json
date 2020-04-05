@@ -4,7 +4,8 @@
 		"sender": "Test",	
 		"right": true,	
 		"createdAt": "today",	
-		"read": "Y",	
+		"read": "Y",
+		"body": "Location: Asuncion",
 		"location": {	
 			"lat": "https://example.org",	
 			"long": "30"	
