@@ -40,7 +40,7 @@
 		"createdAt": "today",
 		"read": "Y",
 		"voice": {
-			"url": "https://example.org",
+			"url": "http://techslides.com/demos/samples/sample.mp3",
 			"duration": 30
 		},
 		"user": {
