@@ -1,3 +1,8 @@
 {
-  "success": true
+  "success": true,
+  "user": {
+    "name": "Mikha Herrero",
+    "username": "mikha",
+    "avatar": "https://avatars0.githubusercontent.com/u/5769121?s=96&v=4"
+  }
 }
